@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Power and government made forth by God in scripture by a rule of righteousnesse: by which rule shal all the actions of men be judged at the last day. 1. Made forth by God to the people of Israel in the Old Testament. 2. By Christ in the New Testament, to future generations. Wherein is expresly set forth, the difference of that power and government which is set up by the appointed will of God; and that which is usurped by the depraved will of man. Also, what is the true government, which ought to be established in this and all Christian common-wealths. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90905</idno><idno type="EEBO-CITATION">99865829</idno>
+  <idno type="VID">165941</idno>
+  <idno type="EEBO-PROQUEST">2240905228</idno>
+  
+            <idno type="STC">Wing P3101</idno>
+            <idno type="STC">Thomason E641_13</idno>
+            <idno type="STC">ESTC R206716</idno>
+            <idno type="PROQUEST">99865829</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865829e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165941)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E641[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Power and government made forth by God in scripture by a rule of righteousnesse: by which rule shal all the actions of men be judged at the last day. 1. Made forth by God to the people of Israel in the Old Testament. 2. By Christ in the New Testament, to future generations. Wherein is expresly set forth, the difference of that power and government which is set up by the appointed will of God; and that which is usurped by the depraved will of man. Also, what is the true government, which ought to be established in this and all Christian common-wealths. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>The word "this" in line 18 of the title is enclosed in brackets.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Religion and state --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165941:1"/>
+            <p>POWER AND GOVERNMENT Made forth by God in Scripture by a Rule of Righteousnesse: By which Rule shal all the Actions of men be Judged at the last Day.</p>
+            <list>
+               <item>1. <hi>Made forth by God to the people of</hi> Israel <hi>in the Old Testament.</hi>
+               </item>
+               <item>2. <hi>By Christ in the New Testament, to future Genera<g ref="char:EOLhyphen"/>tions.</hi>
+               </item>
+            </list>
+            <p>Wherein is expresly set forth, The difference of that Power and Government which is set up by the appointed Will of God; and that which is usurped by the depraved Will of Man.</p>
+            <p>ALSO, What is the true Government, which ought to be established in <hi>[This]</hi> and all Christian Common-Wealths.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>Published by Authority.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. Wood,</hi> 1651</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165941:2"/>
+            <pb n="1" facs="tcp:165941:2"/>
+            <head>Power and Government, made forth by God in Scripture by a Rule of Righteousnesse.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>I Cannot but acquaint you with what it hath pleased God to acquaint me withal in these times of War and blood, that I might keep my self from the guilt thereof: And therefore I have considered what is <hi>Power</hi> and <hi>Government,</hi> according to the true meaning of the Scripture: for I find <hi>Power</hi> to be clearly held forth by its opposite, which is weak<g ref="char:EOLhyphen"/>nesse; I even that which in Scripture is called <hi>Power</hi> in relation to Creature: As the power of Man, and the power of the World, and the power of the De<g ref="char:EOLhyphen"/>vil; and the power of Darknesse: which indeed is but Weaknesse; because it is appointed unto destructi<g ref="char:EOLhyphen"/>on: for true <hi>Power</hi> is unresistable, unchangeable, and endureth to all Eternity: And also true <hi>Government</hi> is that which is held forth by an universal Rule to all alike, without respect of persons, alike binding to all: The opposite to it is <hi>Depravity,</hi> or <hi>Deformity;</hi> which is one thing to day, and another thing to morrow; which keepeth no rule, and is according to the depraved will of the Ruler; and is binding or losing, as the will of him that ruleth, willeth:
+<pb n="2" facs="tcp:165941:3"/>And this <hi>Power</hi> and <hi>Government</hi> I find made out unto the people of <hi>Israel,</hi> when God made choyce of them to be a peculiat people to himself, above all other Nations, to serve him; And then he gave to them these two Commands: The first and great Command is; That they should love the Lord their God with all their hearts, with al their souls, and with all their strength, and with all their might, &amp;c. as you may read: wherein is held forth the absolute <hi>Power</hi> which God hath over his creatures, to command all that the creature is, to his own Glory; and so is a true type of man before his fall, when he lived whol<g ref="char:EOLhyphen"/>ly to the praises of his Maker, which was his happi<g ref="char:EOLhyphen"/>nesse. And the second Command is like to it, which I find God hath made out by this his power; by a Rule of Righteousnesse which changeth not, nor altereth not: And this Government God hath given into the hands of men, to exercise one to another without partiality or respect of persons; which is, <hi>Thou shalt love thy neighbour as thy self:</hi> Not more, for then thou puttest thy fellow creature in the place of thy God: And so maketh an Idol of the creature, and placeth thy joy and happinesse, and thy Rest, in perishing things: As in honour, riches, pleasure, money, gold, wife, children, and whatsoever else thou settest thy heart on: Neither must<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ou love thy neighbour lesse then thy self; for then you will exercise an Arbitrary power, and so become a ty<g ref="char:EOLhyphen"/>rant to destroy thy neighbour, if he stand in the way of your own self-Interest; And this is the depraved condition of man since his fall: And by this Rule of Righteousnesse did God rule the people of <hi>Israel</hi> in the time of the Judges; as you may see clear in <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi>
+               <pb n="3" facs="tcp:165941:3"/>when the people of <hi>Israel</hi> desired to cast off God from ruling over them; and would have a King, as the heathen had, who ruled by their depraved wills: As God testifieth to the people▪ if <hi>Israel,</hi> That their Kings would take their sons, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir daughters, and appoint them to works of his own; which the peo<g ref="char:EOLhyphen"/>ple were not acquainted withal, when God ruled over them by Judges: for <hi>Samuel</hi> maketh a clear te<g ref="char:EOLhyphen"/>stimony thereof, that he ruled for God by this righ<g ref="char:EOLhyphen"/>teous Rule, calling to the people to give Testimony of the truth hereof; asking them whose ox, or whose asse, or who had he done wrong to; and the people justified <hi>Samuel,</hi> that he had done them no wrong. And you may further read, how suitable to this Rule is all the direction of God in the Old Testament, and the Levitical Law, an <hi>eye for an eye, a tooth for a tooth, a hand for a hand,</hi> and <hi>blood for blood.</hi> And also I find in the New Testament, Christ giving forth the same <hi>Power</hi> and <hi>Government;</hi> although different in words but to the same end, in these words; <hi>As many as be<g ref="char:EOLhyphen"/>lieveth shall be saved; And as many as believeth not, are destroyed already:</hi> Here is the Power of <hi>Jesus Christ,</hi> who <hi>hath all power given into his hands in heaven and in earth;</hi> and so making forth this his Power in Belie<g ref="char:EOLhyphen"/>ving: And also shewing what is the depraved con<g ref="char:EOLhyphen"/>dition of man in unbelief to be destroyed: And the same <hi>Government,</hi> in these words, <hi>Do to thy neighbour, as to thy self; for on these two hangeth all the Law and Prophets:</hi> for surely this Rule of Righteousness shall judge all mankind with his works at the last day: so that I verily believe what <hi>Power</hi> and <hi>Government</hi> is not according to this Rule, cannot be called the <hi>Pow<g ref="char:EOLhyphen"/>er</hi> of God, nor the <hi>Government</hi> of God; But the pow<g ref="char:EOLhyphen"/>er
+<pb n="4" facs="tcp:165941:4"/>of the depraved will of man, which is the power of darknesse appointed to destruction: for in this Rule is nothing but love and peace in believing, in union and communion unspeakable to all Eternity: But in the depraved condition is nothing but envy, hatred, malice: for man is said in Scripture to be a Fox, a Wolf, a Bear, a Lyon, the Devil himself, seek<g ref="char:EOLhyphen"/>ing to destroy his neighbour: for surely <hi>Jesus Christ</hi> fore-appointed, and in time took humanity for this onely end; to restore man from this his depraved condition of darknesse; and that this everlasting Gospel might be preached to the people: And then shall the Kingly Power of Christ appear, by ruling by this <hi>Rule of Righteousnesse:</hi> And then shall the <hi>An<g ref="char:EOLhyphen"/>ti-Christian</hi> powers of Kings and Rulers of the earth bring their Crowns and Scepters, and lay at the feet of Christs Government: And then shall we be all taught of him from the greatest to the least: And every man shall say to his neighbour, <hi>Come fear the Lord:</hi> And then shall our swords and spears be turned into pruning hooks: And every man shall sit under his own Vine in peace; And then shall the Lyon lye down with the Lamb, and the sword and war shall cease. I pray remember, the sword was taken up against Arbitrary power and tyranny, against the King and his evil Counsel; and the ayd of the people required: And I judge no man could justifie his so doing upon any other account; there<g ref="char:EOLhyphen"/>fore down with Arbitrary power out of Parishes, Towns, Cities, Companies, Hospitals, Courts of Judicature; That the Righteous Government of Christs Kingly Power may reign on the earth: O let no man exercise Arbitrary power, lest he make him<g ref="char:EOLhyphen"/>self
+<pb n="5" facs="tcp:165941:4"/>to be guilty of the blood now spilt! Oh do not destroy another, and practise the same thing thy self! For if thou dost, thy doom is written: O I pray remember the saying of Satan to Christ, when he took him up into a high Mountain, and shewed him all the Kingdomes of the earth, and the glory there<g ref="char:EOLhyphen"/>of, and told him, if he would fall down and worship him, he would give them all to him: But Satan thou art a lier, the Kingdomes of the earth, and the glory thereof is the Lords, and him must thou serve. I pray remember the saying of Christ, who hath said, he <hi>will bring down all the high Mountains, and all tall Cedars, and all crooked and rough wayes he will make smooth and plain:</hi> which can be no other then the bringing down of <hi>Anti-Christian</hi> Kingly power, ruling for self, and their cruel lawes binding up the persons and consci<g ref="char:EOLhyphen"/>ences of men thereto, and their rough and perse<g ref="char:EOLhyphen"/>cuting wayes which they have used on the Saints, who have spoken against it: Oh it is no marvel the Angels sang such a song at the Birth of Christ; <hi>Glory to God on high; good will to man:</hi> for surely it was a greater piece of the manifestation of his glory, in the restoring of mankind from his depraved condition; then in making the whole world at the first: And the greatest good will and love to man being irreco<g ref="char:EOLhyphen"/>verable, and whom all the whole world was too little to restore one of mankind. O you Ministers of Christ, is not this the everlasting Gospel and free<g ref="char:EOLhyphen"/>dome of the people which you ought to have prea<g ref="char:EOLhyphen"/>ched to the world, and practised; and not preached for self and self-Interest! O take heed you make not your selves guilty of all the blood spilt in these dayes by such Ministery! O you Commanders and
+<pb n="6" facs="tcp:165941:5"/>Souldiers, if you be for Christ, then are you to fight for this freedome and liberties of the people against the depraved will of man: That the Righteous Government of Christ may be set up in the world: for the sword was never taken up on this account before; for the Kingly Power of Christ to reign in the Earth: Oh if you make this your businesse, who shall be able to stand before you! Is it not the Power of God put into your hands? O you that desire peace, and that War may cease, act no more <hi>Arbitrary</hi> power; for by it Peace cannot be obtained.</p>
+            <p>But in this Rule of Righteousnesse is nothing but love, and peace, and a qui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t enjoying of all good: And this I conceive to be the Work which is now working in the world; although most men are so opposite to it, and to their own good therein. And I conceive that Jesus Christ is this Rule of Righteousnesse, set apart of God the Father before man was; to be the Restorer of mankind after his fall; which came in time, and hath perfected the work: O search and try all things, take nothing on trust from man; for it must be the Teaching of God that must give Peace and Rest, and enjoyment of happinesse here and hereafter in the whole man: for this vile body shall be made a glorious body at the last Day, <hi>when time shall be no more.</hi> Also I con<g ref="char:EOLhyphen"/>ceive the whole Scripture is but the making forth of Gods glory: for by Temporary glory he maketh himself known; which a spiritual glory, and all the whole Scripture, was written but to make known the Power of God, and the weaknesse of the creature; And the greatnesse of his Love by Christ, in Restoring what the weaknesse of man hast lost in his Innocency: And this I conceive to be that Everlast<g ref="char:EOLhyphen"/>ing Gospel which ought to be held out to the world; wherein the greatnesse of his Glory doth appear to poor Creatures.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
